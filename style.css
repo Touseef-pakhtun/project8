@@ -75,14 +75,14 @@ button{
     padding: 0;
     padding-top: 5%;
     padding-right: 0%;
-    padding-left: 10px;
+    padding-left: 25px;
     padding-right: 0%;
     position: relative;
     /* left: 5%; */
    }
     .image{
      width: 120%;
-     height: 370px;
+     height: 400px;
      position: relative;
      padding-right: 0%;
      margin-right: 0%;
