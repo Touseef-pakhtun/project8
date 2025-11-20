@@ -61,7 +61,10 @@ button{
    }
    body{
     height: auto;
-    width: 84vw;
+    width: 74vw;
+    margin: 0%;
+    padding: 0%;
+    background-color: white;
    }
     .container{
     flex-direction: column;
@@ -78,7 +81,7 @@ button{
     /* left: 5%; */
    }
     .image{
-     width: 100%;
+     width: 110%;
      height: 70%;
      position: relative;
      padding-right: 0%;
@@ -93,7 +96,7 @@ button{
     }
     .attribution{
         position: relative;
-        top: 5%;
+        top: 500px;
     }
     button{
         position: relative;
