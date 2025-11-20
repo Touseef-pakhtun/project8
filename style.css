@@ -68,21 +68,21 @@ button{
    }
     .container{
     flex-direction: column;
-    height: auto;
+    height: 1500px;
     width: 100%;
     margin: 0;
     margin-right: 0%;
     padding: 0;
     padding-top: 5%;
     padding-right: 0%;
-    padding-left: 20%;
-    padding-right: 5%;
+    padding-left: 10px;
+    padding-right: 0%;
     position: relative;
     /* left: 5%; */
    }
     .image{
-     width: 110%;
-     height: 70%;
+     width: 120%;
+     height: 370px;
      position: relative;
      padding-right: 0%;
      margin-right: 0%;
@@ -96,7 +96,8 @@ button{
     }
     .attribution{
         position: relative;
-        top: 500px;
+        top: -750px;
+        left: 10%;
     }
     button{
         position: relative;
